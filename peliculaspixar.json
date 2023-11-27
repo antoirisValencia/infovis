@@ -1,0 +1,191 @@
+[
+  {
+    "nombre": "Toy Story",
+    "año": 1995,
+    "puntuacion": "100%",
+    "protagonizada": "otro",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Bichos: Una Aventura en Miniatura",
+    "año": 1998,
+    "puntuacion": "92%",
+    "protagonizada": "ser",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Toy Story 2",
+    "año": 1999,
+    "puntuacion": "100%",
+    "protagonizada": "otro",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Monsters, Inc.",
+    "año": 2001,
+    "puntuacion": "96%",
+    "protagonizada": "ser",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Buscando a Nemo",
+    "año": 2003,
+    "puntuacion": "99%",
+    "protagonizada": "ser",
+    "ganadora": "si"
+  },
+  {
+    "nombre": "Los Increíbles",
+    "año": 2004,
+    "puntuacion": "97%",
+    "protagonizada": "humano",
+    "ganadora": "si"
+  },
+  {
+    "nombre": "Cars",
+    "año": 2006,
+    "puntuacion": "95%",
+    "protagonizada": "otro",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Ratatouille",
+    "año": 2007,
+    "puntuacion": "96%",
+    "protagonizada": "ser",
+    "ganadora": "si"
+  },
+  {
+    "nombre": "WALL·E",
+    "año": 2008,
+    "puntuacion": "95%",
+    "protagonizada": "otro",
+    "ganadora": "si"
+  },
+  {
+    "nombre": "Up",
+    "año": 2009,
+    "puntuacion": "98%",
+    "protagonizada": "humano",
+    "ganadora": "si"
+  },
+  {
+    "nombre": "Toy Story 3",
+    "año": 2010,
+    "puntuacion": "98%",
+    "protagonizada": "otro",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Cars 2",
+    "año": 2011,
+    "puntuacion": "39%",
+    "protagonizada": "otro",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Brave",
+    "año": 2012,
+    "puntuacion": "88%",
+    "protagonizada": "humano",
+    "ganadora": "si"
+  },
+  {
+    "nombre": "Monsters University",
+    "año": 2013,
+    "puntuacion": "80%",
+    "protagonizada": "ser",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Inside Out",
+    "año": 2015,
+    "puntuacion": "98%",
+    "protagonizada": "humano",
+    "ganadora": "si"
+  },
+  {
+    "nombre": "The Good Dinosaur",
+    "año": 2015,
+    "puntuacion": "75%",
+    "protagonizada": "ser",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Buscando a Dory",
+    "año": 2016,
+    "puntuacion": "94%",
+    "protagonizada": "ser",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Cars 3",
+    "año": 2017,
+    "puntuacion": "90%",
+    "protagonizada": "otro",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Coco",
+    "año": 2017,
+    "puntuacion": "97%",
+    "protagonizada": "humano",
+    "ganadora": "si"
+  },
+  {
+    "nombre": "Los Increíbles 2",
+    "año": 2018,
+    "puntuacion": "93%",
+    "protagonizada": "humano",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Toy Story 4",
+    "año": 2019,
+    "puntuacion": "97%",
+    "protagonizada": "otro",
+    "ganadora": "si"
+  },
+  {
+    "nombre": "Onward",
+    "año": 2020,
+    "puntuacion": "88%",
+    "protagonizada": "ser",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Soul",
+    "año": 2020,
+    "puntuacion": "95%",
+    "protagonizada": "humano",
+    "ganadora": "si"
+  },
+  {
+    "nombre": "Luca",
+    "año": 2021,
+    "puntuacion": "91%",
+    "protagonizada": "ser",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Red",
+    "año": 2022,
+    "puntuacion": "95%",
+    "protagonizada": "humano",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Lightyear",
+    "año": 2022,
+    "puntuacion": "75%",
+    "protagonizada": "humano",
+    "ganadora": "no"
+  },
+  {
+    "nombre": "Elemental",
+    "año": 2023,
+    "puntuacion": "85%",
+    "protagonizada": "ser",
+    "ganadora": "no"
+  }
+]
